@@ -1,4 +1,4 @@
-### Hi, I'm Oliver
+## Hi, I'm Oliver
 
 ### About me
 
