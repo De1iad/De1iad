@@ -21,6 +21,13 @@ I am a software engineering student at 42 Wolfsburg.
 [CPP_Modules 5-9] - **100**\
 [webserv](https://github.com/De1iad/WebServ) - **125**\
 [ft_transcendence](https://github.com/De1iad/master_of_pong) - **100**
+
+### My other projects
+[VW_Easter_Egg](https://github.com/De1iad/VW_Easter_Egg) - A project to program Volkswagen cars' lights to react to music\
+[ML_Zoomcamp_Midterm](https://github.com/De1iad/ML-Zoomcamp-MidTerm) - The first project of the Machine Learning Zoomcamp course\
+[ML_Zoomcamp_Capstone1](https://github.com/De1iad/ML-Zoomcamp-Capstone1) - The second project of the Machine Learning Zoomcamp course\
+[ML_Zoomcamp_Capstone2](https://github.com/De1iad/ML-Zoomcamp-Capstone2) - The third project of the Machine Learning Zoomcamp course
+
 <!--
 **De1iad/De1iad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
