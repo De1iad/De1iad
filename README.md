@@ -1,4 +1,4 @@
-### Hi, I am Oliver James Bibby
+### Hi, I'm Oliver
 
 ### About me
 
