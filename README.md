@@ -4,6 +4,23 @@
 
 I am a software engineering student at 42 Wolfsburg.
 
+### My 42 projects with grades (from first to final)
+[Libft](https://github.com/De1iad/LibFt) - **100**\
+[Born2beroot] - **100**\
+[ft_printf](https://github.com/De1iad/ft_printf) - **125**\
+[get_next_line](https://github.com/De1iad/get_next_line) - **125**\
+[so_long](https://github.com/De1iad/so_long) - **115**\
+[push_swap](https://github.com/De1iad/push_swap) - **125**\
+[minitalk](https://github.com/De1iad/minitalk) - **125**\
+[Philosophers](https://github.com/De1iad/Philosophers) - **125**\
+[minishell](https://github.com/De1iad/minishell) - **101**\
+[NetPractice] - **100**\
+[CPP_Modules 0-4] - **100**\
+[cub3d](https://github.com/De1iad/cub3D) - **125**\
+[inception](https://github.com/De1iad/inception) - **100**\
+[CPP_Modules 5-9] - **100**\
+[webserv](https://github.com/De1iad/WebServ) - **125**\
+[ft_transcendence](https://github.com/De1iad/master_of_pong) - **100**
 <!--
 **De1iad/De1iad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
